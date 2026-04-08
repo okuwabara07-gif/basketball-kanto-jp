@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://okuwabara07-gif.github.io/basketball-kanto-jp/sitemap.xml
